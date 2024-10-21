@@ -59,7 +59,15 @@ Com uma metodologia voltada para a prática, os alunos têm a oportunidade de ap
                        HorizontalOptions="Center"
                        VerticalOptions="Center" />
             </Frame>
-            <Label Text="Descrição do conteúdo do 2º módulo."
+            <Label Text="No segundo módulo do curso técnico em Desenvolvimento de Sistemas, os alunos avançam significativamente na construção de suas habilidades técnicas. Essa fase do curso tem como objetivo aprofundar o conhecimento adquirido no primeiro módulo e introduzir novas áreas fundamentais para a prática profissional.
+
+Neste módulo, o foco principal é no desenvolvimento de sistemas web e bancos de dados, capacitando os estudantes a criar soluções mais complexas, tanto no front-end quanto no back-end. Os alunos aprendem a projetar e implementar bancos de dados relacionais, aprofundando o conhecimento em SQL e técnicas avançadas de modelagem de dados, o que lhes permite gerenciar grandes volumes de informações com eficiência. Ao longo do módulo, o desenvolvimento de interfaces web também é uma parte essencial, ensinando os alunos a construir páginas dinâmicas e interativas, utilizando tecnologias modernas.
+
+Além disso, o segundo módulo apresenta uma forte ênfase em análise e projeto de sistemas, capacitando os estudantes a trabalhar com linguagens de programação avançadas e ferramentas de desenvolvimento. Os alunos aprendem a aplicar técnicas de design de sistemas, trabalhando com documentação detalhada e desenvolvimento de sistemas que atendam a requisitos específicos de negócios.
+
+Uma característica importante deste módulo é o trabalho em equipe. Os alunos participam de projetos colaborativos, simulando o ambiente real de trabalho, onde a comunicação eficaz e a coordenação entre os membros da equipe são essenciais. Esses projetos permitem que os estudantes experimentem a realidade do desenvolvimento de software, desde a concepção até a implementação, com foco no cumprimento de prazos e qualidade do produto final.
+
+Ao final deste segundo módulo, os alunos estarão aptos a atuar como Programadores de Computadores, com habilidades avançadas em desenvolvimento web e gerenciamento de dados, prontos para criar soluções completas e integradas para o mercado."
                    FontSize="16"
                    TextColor="Black"
                    HorizontalOptions="FillAndExpand" />
@@ -72,10 +80,21 @@ Com uma metodologia voltada para a prática, os alunos têm a oportunidade de ap
                        HorizontalOptions="Center"
                        VerticalOptions="Center" />
             </Frame>
-            <Label Text="Descrição do conteúdo do 3º módulo."
+            <Label Text="O terceiro módulo do curso é o momento de consolidar todo o conhecimento adquirido ao longo das etapas anteriores, preparando os alunos para atuar no mercado como Técnicos em Desenvolvimento de Sistemas. Nesse estágio, o curso foca em áreas mais avançadas e complexas, com uma forte ênfase em segurança da informação, desenvolvimento de sistemas embarcados e o Trabalho de Conclusão de Curso (TCC).
+
+Nesta fase, os alunos aprendem a lidar com sistemas multicamadas, uma técnica que permite a criação de soluções mais robustas e escaláveis. A abordagem multicamada envolve o desenvolvimento de diferentes partes de um sistema, como interface, lógica de negócio e banco de dados, de maneira independente, o que aumenta a segurança e facilita a manutenção dos projetos.
+
+Outro tema fundamental abordado no terceiro módulo é a segurança da informação. Os alunos são introduzidos às melhores práticas para proteger dados e sistemas contra ataques cibernéticos, aprendendo a identificar vulnerabilidades e implementar mecanismos de defesa. Isso é especialmente importante em um mundo cada vez mais digitalizado, onde a proteção de informações sensíveis é uma prioridade.
+
+Além disso, o terceiro módulo inclui o estudo de sistemas embarcados, permitindo que os estudantes projetem e desenvolvam soluções tecnológicas integradas a dispositivos físicos, como sensores e microcontroladores, usados em áreas como a Internet das Coisas (IoT) e automação.
+
+Por fim, o Trabalho de Conclusão de Curso (TCC) é uma parte essencial deste módulo, onde cada aluno é desafiado a aplicar todo o conhecimento adquirido em um projeto real. Este projeto envolve desde a análise e concepção do sistema até sua implementação final, passando pela documentação técnica completa. Ao concluir o TCC, os estudantes demonstram sua capacidade de desenvolver soluções complexas e inovadoras, prontos para ingressar no mercado de trabalho.
+
+Este terceiro módulo prepara os alunos para enfrentar os desafios do mercado de trabalho de forma profissional e criativa, com todas as ferramentas necessárias para atuar de maneira eficaz como Técnico em Desenvolvimento de Sistemas."
                    FontSize="16"
                    TextColor="Black"
                    HorizontalOptions="FillAndExpand" />
+
 
         </StackLayout>
     </ScrollView>
